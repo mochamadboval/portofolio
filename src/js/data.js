@@ -33,9 +33,8 @@ export const projects = [
   {
     screenshot: 'fontvs.png',
     name: 'FontVs - Compare your selected Google Fonts',
-    urlProject: 'https://fontvs.pages.dev',
-    urlDetail: '#Projects',
-    urlSource: '#Projects',
+    urlProject: 'https://fontvs.xyz',
+    urlSource: 'https://github.com/mochamadboval/fontvs',
   },
 ];
 

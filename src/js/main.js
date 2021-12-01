@@ -33,9 +33,6 @@ function loadProjects() {
           <a class="block mx-4 my-1" href="${project.urlProject}">
             🚀 <span class="border-b border-dotted border-black">${project.urlProject.slice(8)}</span>
           </a>
-          <a class="block mx-4 my-1" href="${project.urlDetail}">
-            📖 <span class="border-b border-dotted border-black">Detail</span>
-          </a>
           <a class="block mb-2 mt-1 mx-4" href="${project.urlSource}">
             💻 <span class="border-b border-dotted border-black">Kode Sumber</span>
           </a>
