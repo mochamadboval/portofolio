@@ -36,6 +36,12 @@ export const projects = [
     urlProject: 'https://fontvs.xyz',
     urlSource: 'https://github.com/mochamadboval/fontvs',
   },
+  {
+    screenshot: 'vuetball.png',
+    name: 'Vuetball',
+    urlProject: 'https://vuetball.netlify.app',
+    urlSource: 'https://github.com/mochamadboval/vuetball-league',
+  },
 ];
 
 export const certificates = [
