@@ -22,7 +22,7 @@ function loadSkills() {
 }
 
 function loadProjects() {
-  projects.forEach((project, index) => {
+  projects.forEach((project) => {
     const container = `
       <section class="flex flex-col flex-shrink-0 h-full items-center justify-center relative w-full lg:w-1/2">
         <div class="bg-white flex flex-col rounded-lg shadow-2xl w-4/5">
@@ -37,7 +37,6 @@ function loadProjects() {
             💻 <span class="border-b border-dotted border-black">Kode Sumber</span>
           </a>
         </div>
-        <p class="absolute bottom-4 text-base text-center w-full">${index + 1}/${projects.length}</p>
       </section>
     `;
 
@@ -46,7 +45,7 @@ function loadProjects() {
 }
 
 function loadCertificates() {
-  certificates.forEach((certificate, index) => {
+  certificates.forEach((certificate) => {
     const container = `
       <section class="flex flex-col flex-shrink-0 h-full items-center justify-center relative w-full lg:w-1/2">
         <div class="bg-white flex flex-col rounded-lg shadow-2xl w-4/5">
@@ -61,7 +60,6 @@ function loadCertificates() {
             📖 <span class="border-b border-dotted border-black">Detail Sertifikat</span>
           </a>
         </div>
-        <p class="absolute bottom-4 text-base text-center w-full">${index + 1}/${certificates.length}</p>
       </section>
     `;
 
