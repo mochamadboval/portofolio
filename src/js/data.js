@@ -42,7 +42,7 @@ export const certificates = [
   {
     screenshot: 'bffewd.jpg',
     name: 'Belajar Fundamental Front-End Web Development',
-    scholarship: 'Beasiswa Lintasarta DigiSchool 2020',
+    scholarship: 'Beasiswa Lintasarta Digital School 2020',
     nameSource: 'lintasartadigischool.<wbr>dicoding.com',
     urlSource: 'https://lintasartadigischool.dicoding.com',
     urlDetail: 'https://www.dicoding.com/certificates/53XEEK3DVXRN',
@@ -58,7 +58,7 @@ export const certificates = [
   {
     screenshot: 'bdpw.jpg',
     name: 'Belajar Dasar Pemrograman Web',
-    scholarship: 'Beasiswa IDCamp Indosat Ooredoo 2019',
+    scholarship: 'Beasiswa Indosat Ooredoo Digital Camp 2019',
     nameSource: 'idcamp.<wbr>indosatooredoo.com',
     urlSource: 'https://idcamp.indosatooredoo.com',
     urlDetail: 'https://www.dicoding.com/certificates/GRX5GJY4RX0M',
